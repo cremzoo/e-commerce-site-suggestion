@@ -1,0 +1,21 @@
+body {
+
+}
+
+.navbar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: rgb(153, 102, 255);
+}
+
+.hero {
+  background: url("ecommerce-pic.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-origin: content-box;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
