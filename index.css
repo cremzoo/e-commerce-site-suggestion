@@ -6,7 +6,6 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: rgb(153, 102, 255);
 }
 
 .hero {
@@ -18,4 +17,13 @@ body {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+}
+
+.tools {
+  width: 300px;
+  height: 300px;
+}
+
+.fa-copyright {
+  margin-right: 10px;
 }
